@@ -1,0 +1,877 @@
+﻿[
+  {
+    "Name": "Construction project manager",
+    "OccupationCategoryId": 2
+  },
+  {
+    "Name": "Engineering manager",
+    "OccupationCategoryId": 2
+  },
+  {
+    "Name": "Production Manager (Mining)",
+    "OccupationCategoryId": 2
+  },
+  {
+    "Name": "Child Care centre manager",
+    "OccupationCategoryId": 2
+  },
+  {
+    "Name": "Medical administrator",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Nursing clinical director",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Primary health organisation manager",
+    "OccupationCategoryId": 2
+  },
+  {
+    "Name": "Welfare centre manager",
+    "OccupationCategoryId": 2
+  },
+  {
+    "Name": "Accountant (general)",
+    "OccupationCategoryId": 5
+  },
+  {
+    "Name": "Management accountant",
+    "OccupationCategoryId": 5
+  },
+  {
+    "Name": "Taxation accountant",
+    "OccupationCategoryId": 5
+  },
+  {
+    "Name": "External auditor",
+    "OccupationCategoryId": 5
+  },
+  {
+    "Name": "Internal auditor",
+    "OccupationCategoryId": 5
+  },
+  {
+    "Name": "Actuary",
+    "OccupationCategoryId": 5
+  },
+  {
+    "Name": "Land economist",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Valuer",
+    "OccupationCategoryId": 5
+  },
+  {
+    "Name": "Ship's engineer",
+    "OccupationCategoryId": 10
+  },
+  {
+    "Name": "Ship's master",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Ship's officer",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Architect",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Landscape architect",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Cartographer",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Other Spatial Scientist",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Surveyor",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Chemical engineer",
+    "OccupationCategoryId": 10
+  },
+  {
+    "Name": "Materials engineer",
+    "OccupationCategoryId": 10
+  },
+  {
+    "Name": "Civil engineer",
+    "OccupationCategoryId": 10
+  },
+  {
+    "Name": "Geotechnical engineer",
+    "OccupationCategoryId": 10
+  },
+  {
+    "Name": "Quantity surveyor",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Structural engineer",
+    "OccupationCategoryId": 10
+  },
+  {
+    "Name": "Transport engineer",
+    "OccupationCategoryId": 10
+  },
+  {
+    "Name": "Electrical engineer",
+    "OccupationCategoryId": 10
+  },
+  {
+    "Name": "Electronics engineer",
+    "OccupationCategoryId": 10
+  },
+  {
+    "Name": "Industrial engineer",
+    "OccupationCategoryId": 10
+  },
+  {
+    "Name": "Mechanical engineer",
+    "OccupationCategoryId": 10
+  },
+  {
+    "Name": "Production or plant engineer",
+    "OccupationCategoryId": 10
+  },
+  {
+    "Name": "Mining engineer (excluding petroleum)",
+    "OccupationCategoryId": 10
+  },
+  {
+    "Name": "Petroleum engineer",
+    "OccupationCategoryId": 10
+  },
+  {
+    "Name": "Aeronautical engineer",
+    "OccupationCategoryId": 10
+  },
+  {
+    "Name": "Agricultural engineer",
+    "OccupationCategoryId": 10
+  },
+  {
+    "Name": "Biomedical engineer",
+    "OccupationCategoryId": 10
+  },
+  {
+    "Name": "Engineering technologist",
+    "OccupationCategoryId": 10
+  },
+  {
+    "Name": "Environmental engineer",
+    "OccupationCategoryId": 10
+  },
+  {
+    "Name": "Naval architect",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Agricultural consultant",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Agricultural scientist",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Forester",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Medical laboratory scientist",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Veterinarian",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Metallurgist",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Physicist (medical physicist only)",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Early childhood (pre-primary school) teacher",
+    "OccupationCategoryId": 29
+  },
+  {
+    "Name": "Secondary school teacher",
+    "OccupationCategoryId": 29
+  },
+  {
+    "Name": "Special needs teacher",
+    "OccupationCategoryId": 29
+  },
+  {
+    "Name": "Teacher of the hearing impaired",
+    "OccupationCategoryId": 29
+  },
+  {
+    "Name": "Teacher of the sight impaired",
+    "OccupationCategoryId": 29
+  },
+  {
+    "Name": "Special education teachers nec",
+    "OccupationCategoryId": 29
+  },
+  {
+    "Name": "Medical diagnostic radiographer",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Medical radiation therapist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Nuclear medicine technologist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Sonographer",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Environmental Health Officer",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Occupational Health and Safety Advisor",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Optometrist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Chiropractor",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Osteopath",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Occupational therapist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Physiotherapist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Podiatrist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Speech pathologist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "General medical practitioner",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Anaesthetist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Specialist physician",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Cardiologist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Clinical haematologist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Medical oncologist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Endocrinologist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Gastroenterologist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Intensive care specialist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Neurologist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Paediatrician",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Renal medicine specialist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Rheumatologist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Thoracic medicine specialist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Specialist Physicians nec",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Psychiatrist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Surgeon (general)",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Cardiothoracic surgeon",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Neurosurgeon",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Orthopaedic surgeon",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Otorhinolaryngologist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Paediatric surgeon",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Plastic and reconstructive surgeon",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Urologist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Vascular surgeon",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Dermatologist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Emergency medicine specialist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Obstetrician and Gynaecologist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Ophthalmologist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Pathologist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Diagnostic and Interventional Radiologist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Radiation Oncologist",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Medical practitioners nec",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Midwife",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Nurse Practitioner",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Registered nurse (aged care)",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Registered nurse (Child and Family Health)",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Registered nurse (community health)",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Registered nurse (critical care and emergency)",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Registered nurse (development disability)",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Registered nurse (disability and rehabilitation)",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Registered nurse (medical)",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Registered nurse (medical practice)",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Registered nurse (mental health)",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Registered nurse (perioperative)",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Registered nurse (surgical)",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Registered nurse (paediatrics)",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "Registered nurse nec",
+    "OccupationCategoryId": 7
+  },
+  {
+    "Name": "ICT business analyst",
+    "OccupationCategoryId": 15
+  },
+  {
+    "Name": "Systems analyst",
+    "OccupationCategoryId": 15
+  },
+  {
+    "Name": "Analyst programmer",
+    "OccupationCategoryId": 15
+  },
+  {
+    "Name": "Developer programmer",
+    "OccupationCategoryId": 15
+  },
+  {
+    "Name": "Software engineer",
+    "OccupationCategoryId": 15
+  },
+  {
+    "Name": "Computer Network/Systems Engineer",
+    "OccupationCategoryId": 15
+  },
+  {
+    "Name": "Telecommunications engineer",
+    "OccupationCategoryId": 15
+  },
+  {
+    "Name": "Telecommunications network engineer",
+    "OccupationCategoryId": 15
+  },
+  {
+    "Name": "Barrister",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Solicitor",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Clinical psychologist",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Educational psychologist",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Organisational psychologist",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Psychotherapist",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Psychologists nec",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Social worker",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Civil engineering draftsperson",
+    "OccupationCategoryId": 10
+  },
+  {
+    "Name": "Civil engineering technician",
+    "OccupationCategoryId": 10
+  },
+  {
+    "Name": "Electrical engineer draftperson",
+    "OccupationCategoryId": 10
+  },
+  {
+    "Name": "Electrical engineer technician",
+    "OccupationCategoryId": 10
+  },
+  {
+    "Name": "Radiocommunications technician",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Telecommunications field engineer",
+    "OccupationCategoryId": 10
+  },
+  {
+    "Name": "Telecommunications network planner",
+    "OccupationCategoryId": 15
+  },
+  {
+    "Name": "Telecommunications technical officer or technologist",
+    "OccupationCategoryId": 15
+  },
+  {
+    "Name": "Automotive electrician",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Motor mechanic (general)",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Diesel motor mechanic",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Motorcycle mechanic",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Small engine mechanic",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Sheetmetal trades worker",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Metal Fabricator",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Pressure Welder",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Welder (first class)",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Fitter (General)",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Fitter and Turner",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Fitter-Welder",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Metal Machinist (First Class)",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Locksmith",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Panelbeater",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Stonemason",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Carpenter and Joiner",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Carpenter",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Joiner",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Painting trades workers",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Glazier",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Fibrous plasterer",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Solid plasterer",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Plumber (general)",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Airconditioning and mechanical services plumber",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Drainer",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Gasfitter",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Roof plumber",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Electrician (general)",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Electrician (special class)",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Lift mechanic",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Airconditioning and refrigeration mechanic",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Electrical linesworker",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Technical cable jointer",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Electronic equipment trades worker",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Electronic instrument trades worker (general)",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Electronic instrument trades worker (special class)",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Cabinetmaker",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Boat Builder and Repairer",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Shipwright",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Dental Hygienist",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Dental Prosthetist",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Dental technician",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Dental therapist",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Driver",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Shop assistant",
+    "OccupationCategoryId": 28
+  },
+  {
+    "Name": "Sales",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Marketing",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Real estate Officer",
+    "OccupationCategoryId": 26
+  },
+  {
+    "Name": "Sport Players",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Police",
+    "OccupationCategoryId": 25
+  },
+  {
+    "Name": "Artists",
+    "OccupationCategoryId": 21
+  },
+  {
+    "Name": "Mining site Employees",
+    "OccupationCategoryId": 1
+  },
+
+  {
+    "Name": "Managers",
+    "OccupationCategoryId": 2
+  },
+  {
+    "Name": "Australian Defence Force members",
+    "OccupationCategoryId": 25
+  },
+  {
+    "Name": "Building and construction employees",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Business professionals",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Cleaners",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Doctor, specialist or other medical professional",
+    "OccupationCategoryId": 30
+  },
+
+  {
+    "Name": "Electricians",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Engineers",
+    "OccupationCategoryId": 10
+  },
+  {
+    "Name": "Flight attendants",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Guards and security",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Hairdressers",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Hospitality",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "IT professionals",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Journalists",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Lawyers",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Mechanics",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Mining site",
+    "OccupationCategoryId": 1
+  },
+  {
+    "Name": "Nurses midwives and direct carers",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Public servant",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Real estate Manager",
+    "OccupationCategoryId": 26
+  },
+  {
+    "Name": "Shop assistants",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Teachers and education professionals",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Office",
+    "OccupationCategoryId": 30
+  }
+
+]

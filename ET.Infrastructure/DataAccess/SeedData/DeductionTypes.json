@@ -1,0 +1,123 @@
+﻿[
+  {
+    "Description": "Work-related Car Expenses",
+    "Code": "D1",
+    "DeductionTypeId": 1
+  },
+  {
+    "Description": "Parking & Tolls",
+    "Code": "2",
+    "DeductionTypeId": 2
+  },
+  {
+    "Description": "Other work-related travel expenses",
+    "Code": "3",
+    "DeductionTypeId": 3
+  },
+  {
+    "Description": "Work-related uniform, Occupation Specific Or Protective Cloth-ing, Laundry And Dry Cleaning Expenses",
+    "Code": "D3",
+    "DeductionTypeId": 4
+  },
+  {
+    "Description": "Work-related Self-education Expenses",
+    "Code": "D4",
+    "DeductionTypeId": 5
+  },
+  {
+    "Description": "Tools and Equipment",
+    "Code": "4",
+    "DeductionTypeId": 6
+  },
+  {
+    "Description": "Mobile Phone",
+    "Code": "5",
+    "DeductionTypeId": 7
+  },
+  {
+    "Description": "Internet Access",
+    "Code": "6",
+    "DeductionTypeId": 8
+  },
+  {
+    "Description": "Computer / Laptop Used for Work Purposes",
+    "Code": "7",
+    "DeductionTypeId": 9
+  },
+  {
+    "Description": "Union Fees",
+    "Code": "8",
+    "DeductionTypeId": 10
+  },
+  {
+    "Description": "Home Office Expenses",
+    "Code": "9",
+    "DeductionTypeId": 11
+  },
+  {
+    "Description": "Other Work-Related Expenses",
+    "Code": "10",
+    "DeductionTypeId": 12
+  },
+  {
+    "Description": "Home Office Occupancy Costs (If you ONLY work from your home office)",
+    "Code": "11",
+    "DeductionTypeId": 13
+  },
+  {
+    "Description": "Sun Protection",
+    "Code": "12",
+    "DeductionTypeId": 14
+  },
+  {
+    "Description": "Low Value Pool Deduction",
+    "Code": "D6",
+    "DeductionTypeId": 15
+  },
+  {
+    "Description": "Interest Deductions",
+    "Code": "D7",
+    "DeductionTypeId": 16
+  },
+  {
+    "Description": "Dividend Deductions",
+    "Code": "D8",
+    "DeductionTypeId": 17
+  },
+  {
+    "Description": "Gifts or Donations",
+    "Code": "D9",
+    "DeductionTypeId": 18
+  },
+  {
+    "Description": "Cost of Managing Tax Affairs",
+    "Code": "D10",
+    "DeductionTypeId": 19
+  },
+  {
+    "Description": "Deductible Amount Of Undeducted Purchase Price Of Foreign Pension Or Annuity",
+    "Code": "D11",
+    "DeductionTypeId": 20
+  },
+  {
+    "Description": "Personal Superannuation Contributions",
+    "Code": "D12",
+    "DeductionTypeId": 21
+  },
+  {
+    "Description": "Deduction For Project Pool",
+    "Code": "D13",
+    "DeductionTypeId": 22
+  },
+  {
+    "Description": "Forestry Managed Investment Scheme Deduction",
+    "Code": "D14",
+    "DeductionTypeId": 23
+  },
+  {
+    "Description": "Other Deductions",
+    "Code": "D15",
+    "DeductionTypeId": 24
+  }
+
+]

@@ -1,0 +1,93 @@
+﻿[
+  {
+    "Description": "Under 18",
+    "Code": "A1",
+    "OtherItemTypeId": 1
+  },
+  {
+    "Description": "Part Year Tax Free Threshold",
+    "Code": "A2",
+    "OtherItemTypeId": 2
+  },
+  {
+    "Description": "Superannuation Co Contribution",
+    "Code": "A3",
+    "OtherItemTypeId": 3
+  },
+  {
+    "Description": "Working Holiday Maker Net Income",
+    "Code": "A4",
+    "OtherItemTypeId": 4
+  },
+  {
+    "Description": "Dependency Children",
+    "Code": "5",
+    "OtherItemTypeId": 5
+  },
+  {
+    "Description": "Income Tests",
+    "Code": "6",
+    "OtherItemTypeId": 6
+  },
+  {
+    "Description": "Tax Loss Of Earlier Income Years Claimed This Income Year",
+    "Code": "7",
+    "OtherItemTypeId": 7
+  },
+  {
+    "Description": "Medicare Levy Reduction Or Exemption",
+    "Code": "8",
+    "OtherItemTypeId": 8
+  },
+  {
+    "Description": "Medicare Levy Surcharges",
+    "Code": "9",
+    "OtherItemTypeId": 9
+  },
+  {
+    "Description": "Private Health Insurance Policy Details",
+    "Code": "10",
+    "OtherItemTypeId": 10
+  },
+  {
+    "Description": "Spouse Details",
+    "Code": "11",
+    "OtherItemTypeId": 11
+  },
+  {
+    "Description": "Other Non Refundable Tax Offsets",
+    "Code": "T10",
+    "OtherItemTypeId": 12
+  },
+  {
+    "Description": "Other Refundable Tax Offsets",
+    "Code": "T11",
+    "OtherItemTypeId": 13
+  },
+  {
+    "Description": "Seniors And Pensions",
+    "Code": "T1",
+    "OtherItemTypeId": 14
+  },
+  {
+    "Description": "Australian Superannuation Income Stream",
+    "Code": "T2",
+    "OtherItemTypeId": 15
+  },
+  {
+    "Description": "Superannuation Contribution On Behalf Of Spouse",
+    "Code": "T3",
+    "OtherItemTypeId": 16
+  },
+  {
+    "Description": "Zone Or Overseas Forces",
+    "Code": "T4",
+    "OtherItemTypeId": 17
+  },
+  {
+    "Description": "Dependant",
+    "Code": "T6",
+    "OtherItemTypeId": 18
+  }
+]
+

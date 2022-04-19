@@ -1,0 +1,1 @@
+﻿Domain, include use cases, entitys,  domain objects and business rules, no network connections, databases

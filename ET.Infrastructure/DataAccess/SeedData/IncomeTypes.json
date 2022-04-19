@@ -1,0 +1,215 @@
+﻿[
+  {
+    "Description": "Salary Wages",
+    "Code": "1",
+    "IncomeTypeId": 1 
+  },
+  {
+    "Description": "Allowance Earnings",
+    "Code": "2",
+    "IncomeTypeId": 2
+  },
+  {
+    "Description": "Employer Lump Sum Payment",
+    "Code": "3",
+    "IncomeTypeId": 3
+  },
+  {
+    "Description": "Employment Termination Payments",
+    "Code": "4",
+    "IncomeTypeId": 4
+  },
+  {
+    "Description": "Australian Government Allowances",
+    "Code": "5",
+    "IncomeTypeId": 5
+  },
+  {
+    "Description": "Australian Annuities And Superannuation Income Streams",
+    "Code": "6",
+    "IncomeTypeId": 6
+  },
+  {
+    "Description": "Australian Superannuation Lump Sum Payments",
+    "Code": "7",
+    "IncomeTypeId": 7
+  },
+  {
+    "Description": "Attributed Personal Services Income",
+    "Code": "8",
+    "IncomeTypeId": 8
+  },
+  {
+    "Description": "Bank Interest",
+    "Code": "9",
+    "IncomeTypeId": 9
+  },
+  {
+    "Description": "Dividends",
+    "Code": "10",
+    "IncomeTypeId": 10
+  },
+  {
+    "Description": "Employee Share Schemes (ESS)",
+    "Code": "11",
+    "IncomeTypeId": 11
+  },
+  {
+    "Description": "Partnerships And Trusts",
+    "Code": "12",
+    "IncomeTypeId": 12
+  },
+  {
+    "Description": "Personal Services Income",
+    "Code": "13",
+    "IncomeTypeId": 13
+  },
+  {
+    "Description": "Net Income Or Loss From Business",
+    "Code": "14",
+    "IncomeTypeId": 14
+  },
+  {
+    "Description": "Deferred Non-commercial Business Losses",
+    "Code": "15",
+    "IncomeTypeId": 15
+  },
+  {
+    "Description": "Net Farm Management Deposits Or repayments",
+    "Code": "16",
+    "IncomeTypeId": 16
+  },
+  {
+    "Description": "Capital gains or losses - for example, on disposal of assets",
+    "Code": "17",
+    "IncomeTypeId": 17
+  },
+  {
+    "Description": "Foreign Entities",
+    "Code": "18",
+    "IncomeTypeId": 18
+  },
+  {
+    "Description": "Foreign source income (including foreign source pension or annuity) and foreign assets or property",
+    "Code": "19",
+    "IncomeTypeId": 19
+  },
+  {
+    "Description": "Rent",
+    "Code": "20",
+    "IncomeTypeId": 20
+  },
+  {
+    "Description": "Bonuses From Life Insurance Companies And Friendly So-cieties",
+    "Code": "21",
+    "IncomeTypeId": 21
+  },
+  {
+    "Description": "Forestry Managed Investment Scheme Income",
+    "Code": "22",
+    "IncomeTypeId": 22
+  },
+  {
+    "Description": "Other Income",
+    "Code": "23",
+    "IncomeTypeId": 23
+  },
+  {
+    "Description": "Personal Services Income",
+    "Code": "P1",
+    "IncomeTypeId": 24
+  },
+  {
+    "Description": "Description Of Main Business Or Professional Activity",
+    "Code": "P2",
+    "IncomeTypeId": 25
+  },
+  {
+    "Description": "Number Of Business Activities",
+    "Code": "P3",
+    "IncomeTypeId": 26
+  },
+  {
+    "Description": "Status Of Your Business",
+    "Code": "P4",
+    "IncomeTypeId": 27
+  },
+  {
+    "Description": "Business Name Of Main Business And Australian Business Number",
+    "Code": "P5",
+    "IncomeTypeId": 28
+  },
+  {
+    "Description": "Business Address Of Main Business",
+    "Code": "P6",
+    "IncomeTypeId": 29
+  },
+  {
+    "Description": "Goods Or Services By Internet",
+    "Code": "P7",
+    "IncomeTypeId": 30
+  },
+
+  {
+    "Description": "Business Income And Expenses",
+    "Code": "P8",
+    "IncomeTypeId": 31
+  },
+  {
+    "Description": "Business Loss Activity Details",
+    "Code": "P9",
+    "IncomeTypeId": 32
+  },
+
+  {
+    "Description": "Small Business Entity Depreciating Assets",
+    "Code": "P10",
+    "IncomeTypeId": 33
+  },
+  {
+    "Description": "Trade Debtors",
+    "Code": "P11",
+    "IncomeTypeId": 34
+  },
+  {
+    "Description": "Trade Creditors",
+    "Code": "P12",
+    "IncomeTypeId": 35
+  },
+  {
+    "Description": "Total Salary And Wage Expenses",
+    "Code": "P13",
+    "IncomeTypeId": 36
+  },
+  {
+    "Description": "Payments To Associated Persons",
+    "Code": "P14",
+    "IncomeTypeId": 37
+  },
+  {
+    "Description": "Intangible Depreciating Assets First Deducted",
+    "Code": "P15",
+    "IncomeTypeId": 38
+  },
+  {
+    "Description": "Other Depreciating Assets First Deducted",
+    "Code": "P16",
+    "IncomeTypeId": 39
+  },
+  {
+    "Description": "Termination Value Of Intangible Depreciating Asset",
+    "Code": "P17",
+    "IncomeTypeId": 40
+  },
+  {
+    "Description": "Termination Value Of Other Depreciating Assets",
+    "Code": "P18",
+    "IncomeTypeId": 41
+  },
+  {
+    "Description": "Trading Stock Election",
+    "Code": "P19",
+    "IncomeTypeId": 42
+  }
+
+]

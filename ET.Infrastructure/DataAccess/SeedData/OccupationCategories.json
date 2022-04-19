@@ -1,0 +1,66 @@
+[
+  {
+    "Name": "Labors",
+    "OccupationCategoryId": 1 
+  },
+  {
+    "Name": "Managers",
+    "OccupationCategoryId": 2
+  },
+
+  {
+    "Name": "Business professionals",
+    "OccupationCategoryId": 5
+  },
+
+  {
+    "Name": "Doctor, specialist or other medical professional",
+    "OccupationCategoryId": 7
+  },
+  
+  {
+    "Name": "Engineers",
+    "OccupationCategoryId": 10
+  },
+
+  {
+    "Name": "IT professionals",
+    "OccupationCategoryId": 15
+  },
+
+  {
+    "Name": "Nurses midwives and direct carers",
+    "OccupationCategoryId": 20
+  },
+  {
+    "Name": "Artists",
+    "OccupationCategoryId": 21
+  },
+  
+  {
+    "Name": "Public servant",
+    "OccupationCategoryId": 25
+  },
+  {
+    "Name": "Real estate",
+    "OccupationCategoryId": 26
+  },
+
+  {
+    "Name": "Shop assistants",
+    "OccupationCategoryId": 28
+  },
+  {
+    "Name": "Teachers and education professionals",
+    "OccupationCategoryId": 29
+  },
+  {
+    "Name": "Office",
+    "OccupationCategoryId": 30
+  },
+  {
+    "Name": "Uncategorized",
+    "OccupationCategoryId": 100 
+  }
+
+]

@@ -1,0 +1,14 @@
+﻿Form Models: data belongs to each individual, is unique data
+
+Income Types,  Deduction Types, are general models, they are fixed data, not unique data, for unviversal use.
+
+
+Income Type Details, Deduction Type Details are unique data, they are container for carrying different types of income details, eg PAYG, Allowance,
+
+so PAYG or Allowance which are also unique ... should belong to a income type detail,
+so PAYG in linked to a income type detail
+
+
+Income Type Detail Form:
+--- Many Income Type Detail ( wrapper)
+…>Each Income Type Detail -- one or more of each income type detail detail (actually item)
